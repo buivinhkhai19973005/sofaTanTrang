@@ -1076,7 +1076,7 @@ footer ul li {
     }
 
     .slide > .img > img {
-        max-width: 300px;
+        /* max-width: 300px; */
     }
 
     .info-content p {
